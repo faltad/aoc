@@ -7,9 +7,7 @@ Python.
 For the uninitiated, [Advent of Code](http://adventofcode.com/) is a series of
 programming challenges, a new one is released each day until Dec. 25th.
 
-Each challenge requires thinking in a different way to solve it, and for this
-reason it provides an interesting look at how programming languages approach
-each problem.
+Each challenge requires thinking in a different way to solve it.
 
 Notes
 -----
